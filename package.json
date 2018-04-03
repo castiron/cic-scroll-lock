@@ -1,0 +1,18 @@
+{
+  "name": "cic-scroll-lock",
+  "version": "1.0.0",
+  "description": "Plain Javascript class to restrict scrolling on elements within a page",
+  "main": "lib/ScrollLock.js",
+  "repository": "https://github.com/castiron/cic-scroll-lock",
+  "author": "Cast Iron Coding (naomi@castironcoding.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src -d lib",
+    "watch": "babel src --watch  --out-dir lib"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.6.1"
+  }
+}
