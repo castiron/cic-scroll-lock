@@ -2,7 +2,7 @@
   "name": "cic-scroll-lock",
   "version": "1.0.0",
   "description": "Plain Javascript class to restrict scrolling on elements within a page",
-  "main": "lib/ScrollLock.js",
+  "main": "index.js",
   "repository": "https://github.com/castiron/cic-scroll-lock",
   "author": "Cast Iron Coding (naomi@castironcoding.com)",
   "license": "MIT",
